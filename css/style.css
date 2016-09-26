@@ -1,0 +1,218 @@
+* {
+	-webkit-appearance: none;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-text-size-adjust: none;
+	-moz-appearance: none;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Slab', serif;		/* change as necessary */
+}
+body, a, input, textarea {
+     text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+a:not(.email), a:link:not(.email), a:visited:not(.email), a:hover:not(.email), a:active:not(.email) {
+	color: inherit;
+}
+.clear {
+	clear: both;
+}    
+
+p {
+	font-size: 20px;
+}                                                                                                    
+                                                                                                         
+                                                                                                         
+#header {                                                                                                
+	height: 400px;                                                                                       
+	background: url("../images/header.jpg") no-repeat 0 /*6*/0%;		/* put back 6 after jump foxed */
+	background-size: cover;                                                                              
+}                                                                                                        
+#tabs {                                                                                                  
+	position: fixed;                                                                                     
+	padding: 20px;                                                                                       
+	background-color: black;                                                                             
+	margin: auto;                                                                                        
+	margin-top: 339px;                                                                                   
+	/*border-right: 1px solid white;*/                                                                   
+}                                                                                                        
+a {                                                                                                      
+	text-decoration: none;                                                                               
+	/*font-size: 20px;*/			/* fix */                                                            
+}
+a:hover, a.external:hover {
+	color: #808080 !important;
+}
+a.external {
+	text-decoration: underline;
+}                                                                                                        
+#tabs a {                                                                                                
+	color: white;                                                                                        
+	border-right: 1px solid white;                                                                       
+	padding-right: 20px;                                                                                 
+	padding-left: 20px;                                                                                  
+	width: 100px;                                                                                        
+}                                                                                                        
+#tabs a:last-of-type {                                                                                   
+	border-right: none;                                                                                  
+}   
+#tabs a:hover {
+	color: #808080;
+}                                                                                                     
+#tabs div {                                                                                              
+	                                                                                                     
+}                                                                                                        
+                                                                                                         
+                                                                                                         
+#main {                                                                                                  
+	/*min-height: 2000px;*/			/* temporary */                                                      
+	height: 100%;                                                                                        
+}                                                                                                        
+#sidebar {                                                                                               
+	width: 460px;    
+	height: auto;                                                                                    
+	float: left;                                                                                         
+	margin: auto;                                                                                        
+	margin-top: 50px;                                                                                    
+	position: fixed;                                                                                     
+}      
+#social a {
+	overflow: hidden;
+}    
+#social a > i, #social a img {
+	font-size: 80px;
+	color: black;
+	padding: 10px;
+}
+#social a img {
+	border-radius: .25em;
+	width: 70px;
+	height: 70px;
+}
+#social a i:hover {
+	color: #808080;
+}
+#social a img:hover {
+	
+}
+#social {
+	margin-left: 40px;				/* check math */
+	margin-top: 20px;
+}
+
+ 
+#content {                                                                                    
+	margin-left: 600px;
+	margin-left: calc(460px + 7.356%);                                                                       
+	margin-top: 50px;			/* check math */                                              
+	float: left;                                                                              
+	margin-right: 100px;
+	margin-right: 5.254%;                                                                      
+	margin-bottom: 100px;     
+	width: calc(100% - (460px + 7.356%) - 5.254%);                                                                
+}                                                                                             
+#content h1 {                                                                                 
+	font-size: 90px;    
+	text-transform: capitalize;                                                                 
+}                              
+#content h2 {
+	font-size: 50px;    
+	text-transform: capitalize; 
+}
+#content      h3 {
+	font-size: 36px;
+}                                                          
+#content p, #content li {                                                                                  
+	font-size: 20px;                                                                          
+	line-height: 28px;                                                                        
+	margin-top: 20px;                                                                         
+}                                                                                             
+#content li {
+	margin-left: 20px;
+	margin-top: 10px;
+}   
+                                                                               
+#footer {                                                                                     
+	min-height: 100px;                                                                        
+	background-color: black;       
+	width: 100%; 
+	padding: 40px 0;                                                          
+}                                                                                             
+                                     
+       
+iframe {
+	width: 100%;
+	border: 1px solid black;
+	height: 1807px;
+}                              
+                                     
+#footer p {
+	color: #fff;
+	text-align: center;
+	line-height: 2;
+}                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+/* TABLET */
+
+.tablet #sidebar {
+	position: relative;
+	width: 100%;
+}      
+.tablet #content {
+	margin: 5.254%;
+    width: calc(100% - 5.254% - 5.254%);
+}   
+.tablet #tabs {
+	position: absolute;
+	width: 100%;
+	width: calc(100% - 40px);
+}  
+.tablet #tabs a {
+	width: 25%;
+	padding-right: 8%;
+    padding-left: 8%;
+}                   
+.tablet #social a i {
+	padding-left: 7.5%;
+	padding-right: 7.5%;
+}       
+.tablet #portfolio > div {
+	margin-left: calc(50% - 150.375px);
+}
+
+
+
+
+
+
+
+/* MOBILE */   
+
+.mobile #header {
+	height: 200px;
+}
+.mobile #tabs {
+	margin-top: 189px;
+	width: 100%;
+	padding: 20px 0;
+}
+.mobile #tabs a {
+	padding-right: 3%;
+    padding-left: 3%;
+    font-size: 30px;
+}
+.mobile #sidebar {
+	margin-top: 100px;
+}
+
+
+
+.mobile #social a i {
+	padding-left: 5.5%;
+	padding-right: 5.5%;
+}                                                                                          

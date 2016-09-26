@@ -1,0 +1,1 @@
+<?php  header( 'Location: http://mypages.iit.edu/~pbartman/personal/home/' ) ;  ?>

@@ -1,0 +1,14 @@
+Cabinet {
+	Zach: VP
+	Josh: Tresurer
+	Matt: Secretary of Energy
+	Chloe: "Olivia Pope" (Fixer)
+	Jacob: Secretary of Freedom (not on payroll)
+	Corey: Administrator of the Drug Enforcement Administration
+	Kyle: cheif of staff
+	Meat: Head of Security
+}
+
+Slogan {
+	Pat Bartman: "Rockin' The World Since '96"
+}

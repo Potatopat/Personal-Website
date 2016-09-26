@@ -1,0 +1,28 @@
+* {
+	margin: 0 auto;
+}
+
+.computer {
+	margin: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: 300.75px;
+    height: 217.06px;
+}
+.frame {
+	border: 10px solid rgb(70,70,70);
+	width: calc(100% - 20px);
+	height: calc(83.959044368601% - 20px);
+	border-radius: 10px;
+}
+.neck {
+	width: 9.661835748792%;
+	height: 13.651877133106%;
+	background-color: rgb(70,70,70);
+}
+.foot {
+	width: 38.647342995169%;
+	height: 3.412969283276%;
+	background-color: rgb(70,70,70);
+	border-radius: 2px;
+}

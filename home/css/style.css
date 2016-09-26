@@ -1,0 +1,11 @@
+#pic {
+	background: url("../../images/profile.JPG") no-repeat 0 -65px;
+	background-size: cover;
+	height: 270px;
+	width: 270px;
+	border-radius: 50%;
+	margin-left: 85px;			/* check math for centering */
+}
+.tablet #pic {
+	margin: 0 auto;
+}
