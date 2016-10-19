@@ -2,6 +2,7 @@
 	<div id="pic">
 		<!--<img src="home/images/Senior Picture.jpg">-->
 	</div>
+	<h1>Patrick Bartman</h1>
 	<div id="social">
 		<a href="mailto:me@patrickbartman.com?Subject=Saw%20Your%20Website" title="Send Me An Email At me@patrickbartman.com!"><i class="fa fa-envelope-square"></i></a>
 		<a href="https://www.linkedin.com/in/pbartman" title="Connect With Me On LinkedIn!" target="_blank"><i class="fa fa-linkedin-square"></i></a>

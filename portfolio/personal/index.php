@@ -16,7 +16,6 @@
 			<div id="content">
 				<h1>Personal Projects Portfolio</h1>
 				<p>Here are some personal projects and hackathons that I've worked on.</p>
-				<h2><img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/> UNDER CONSTRUCTION! <img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/></h2>
 				<div id="portfolio">
 					<div id="pb">
 						<a href="http://patrickbartman.com/" target="_blank">

@@ -17,7 +17,7 @@
 	<div id="connect">
 		<h2>Accounts You May Be Interested In</h2>
 		<div id="email">
-			<a href="mailto:pbartman@hawk.iit.edu?Subject=Saw%20Your%20Website" title="Send Me An Email At pbartman@hawk.iit.edu!">
+			<a href="mailto:me@patrickbartman.com?Subject=Saw%20Your%20Website" title="Send Me An Email At me@patrickbartman.com!">
 				<p><i class="fa fa-envelope-square"></i> Email</p>
 			</a>
 		</div>
@@ -46,19 +46,9 @@
 				<p><i class="fa fa-bitbucket-square"></i> Bitbucket</p>
 			</a>
 		</div>
-		<div id="instagram">
-			<a href="https://instagram.com/potatopatb/" title="Follow Me On Instagram!" target="_blank">
-				<p><i class="fa fa-instagram"></i> Instagram</p>
-			</a>
-		</div>
-		<div id="youtube">
-			<a href="https://www.youtube.com/user/Potatopatb" title="Subscribe To Me On YouTube!" target="_blank">
-				<p><i class="fa fa-youtube-square"></i> YouTube</p>
-			</a>
-		</div>
-		<div id="google-plus">
-			<a href="https://plus.google.com/115733124414377006952" title="Follow Me On Google+!" target="_blank">
-				<p><i class="fa fa-google-plus-square"></i> Google+</p>
+		<div id="gitlab">
+			<a href="https://gitlab.com/u/Potatopat" title="Check Out My GitLab!" target="_blank">
+				<p><i class="fa fa-gitlab" aria-hidden="true"></i> GitLab</p>
 			</a>
 		</div>
 		<div id="steam">

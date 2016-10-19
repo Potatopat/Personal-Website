@@ -1,37 +1,4 @@
-<html>
-	<head>
-		<meta id="viewport" name="viewport" content="width=device-width">
-		
-		<title>Patrick For President: 2032</title>
-		<link rel="shortcut icon" href="../images/PB.png">
-		
-		<link rel="stylesheet" href="../css/style.css"/>
-		<link rel="stylesheet" href="css/2032.css"/>
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Slab" type="text/css">
-		<link rel="stylesheet" href="../fonts/font-awesome-4.3.0/css/font-awesome.min.css">
-		
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-		<script src="../js/script.js"></script>
-		<script src="js/2032.js"></script>
-	</head>
-	<body>
-		<div id="header">
-			<div id="tabs">
-				<a href="../index.php">Home</a>
-				<a href="../about-me/index.php">About Me</a>
-				<a href="../resume/index.php">R&eacute;sum&eacute;</a>
-				<a href="../portfolio/index.php">Portfolio</a>
-			</div>
-		</div>
-		<div id="main">
-			<div id="sidebar">
-				<div id="social">
-					<a href="mailto:pbartman@hawk.iit.edu?Subject=Saw%20Your%20Website" title="Send Me An Email At pbartman@hawk.iit.edu!"><i class="fa fa-envelope-square"></i></a>
-					<a href="https://www.linkedin.com/in/pbartman" title="Connect With Me On LinkedIn!" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-					<a href="https://www.facebook.com/potatopat" title="Add Me On Facebook!" target="_blank"><i class="fa fa-facebook-square"></i></a>
-					<a href="https://twitter.com/patbartman" title="Follow Me On Twitter!" target="_blank"><i class="fa fa-twitter-square"></i></a>
-				</div>
-			</div>
+<?php include("../header.php"); ?>
 			<div id="content">
 				<h1>Patrick For President: 2032</h1>
 				<p>In the year 2032, I plan to run for president. In order to win, I <i>need</i> to start campaining now. I don't plan to run for a certain party's nomination, however; I am running for the write in vote.</p>
@@ -156,8 +123,4 @@
 			<embed src="../music/hawk-screeching.mp3" loop="true" hidden="true" autostart="true"></embed>
 			<embed src="http://www.mostfreebies.com/PatrioticNostalgicMusic/music/USAFB_TheStarSpangledBanner.mp3" loop="true" hidden="true" autostart="true"></embed>
 		</div>
-		<div id="footer" class='clear'>
-			
-		</div>
-	</body>
-</html>
+<?php include("../footer.php"); ?>

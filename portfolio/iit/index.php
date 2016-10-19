@@ -16,7 +16,6 @@
 			<div id="content">
 				<h1>Illinois Institute of Technology Portfolio</h1>
 				<p>These are some projects that I worked on as part of assignments while at Illinois Tech.</p>
-				<h2><img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/> UNDER CONSTRUCTION! <img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/></h2>
 				<div id="portfolio">
 					<div id="tc">
 						<a href="http://viktorkoves.com/TransportationCollective/" target="_blank">

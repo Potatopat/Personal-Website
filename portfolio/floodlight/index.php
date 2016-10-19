@@ -15,13 +15,13 @@
 </style>
 	<div id="content">
 		<h1>Floodlight Design</h1>
-		<p>A Brief List of Sites I Have Worked on During my Time With Floodlight Design. A lot of my job was spent doing research on different tool-sets and making minor code changes or a quick-and-simple algorithm, and other sites I made were pages that are not public facing and that I cannot link. So here is a list listed in subjective order in regards to how much work I peronally put into each one.</p>
+		<p>A Brief List of Sites I Have Worked on During my Time With <a href="http://floodlight.design/" class="external" target="_blank">Floodlight Design</a>. A lot of my job was spent doing research on different tool-sets and making minor code changes or a quick-and-simple algorithm, and other sites I made were pages that are not public facing and that I cannot link. So here is a list listed in subjective order in regards to how much work I peronally put into each one.</p>
 		<div id="portfolio">
 			<div id="tiu">
 				<a href="http://www.tiu.edu/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/tiu.png"/>
+							<img src="../../images/screenshots/optimized/tiu.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -44,7 +44,7 @@
 				<a href="http://www.corepower.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/cp.PNG"/>
+							<img src="../../images/screenshots/optimized/cp.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -66,7 +66,7 @@
 				<a href="http://www.mailing-tube.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/cmt.PNG"/>
+							<img src="../../images/screenshots/optimized/cmt.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -88,7 +88,7 @@
 				<a href="http://www.anabaptistworshipexchange.org/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/awe.PNG"/>
+							<img src="../../images/screenshots/optimized/awe.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -109,7 +109,7 @@
 				<a href="http://www.ccsd59.org/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/ccsd59.PNG"/>
+							<img src="../../images/screenshots/optimized/ccsd59.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -131,7 +131,7 @@
 				<a href="http://www.calientecreative.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/cc.PNG"/>
+							<img src="../../images/screenshots/optimized/cc.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -151,7 +151,7 @@
 				<a href="http://getworkwell.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/ww.PNG"/>
+							<img src="../../images/screenshots/optimized/ww.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -172,7 +172,7 @@
 				<a href="https://safedepositboxinsurance.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/sdbic.PNG"/>
+							<img src="../../images/screenshots/optimized/sdbic.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -195,7 +195,7 @@
 				<a href="http://www.wallprotex.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/wp.PNG"/>
+							<img src="../../images/screenshots/optimized/wp.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -214,7 +214,7 @@
 				<a href="https://gretelme.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/g.PNG"/>
+							<img src="../../images/screenshots/optimized/g.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -230,7 +230,7 @@
 				<a href="http://www.afterschoolmatters.org/calendar/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/asm.PNG"/>
+							<img src="../../images/screenshots/optimized/asm.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -249,7 +249,7 @@
 				<a href="http://harrisobrien.com/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/hsc.PNG"/>
+							<img src="../../images/screenshots/optimized/hsc.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -270,7 +270,7 @@
 				<a href="https://roryd.org/commemorative-timeline/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/rory.PNG"/>
+							<img src="../../images/screenshots/optimized/rory.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -289,7 +289,7 @@
 				<a href="http://fairlife.com/recipes/" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/fl.PNG"/>
+							<img src="../../images/screenshots/optimized/fl.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>
@@ -310,7 +310,7 @@
 				<a href="https://learninglab.ccsd59.org/login" target="_blank">
 					<div class="computer">
 						<div class="frame">
-							<img src="../../images/screenshots/ll.PNG"/>
+							<img src="../../images/screenshots/optimized/ll.png"/>
 						</div>
 						<div class="neck"></div>
 						<div class="foot"></div>

@@ -7,37 +7,42 @@
 		return ucfirst($array[$count - 4]);*/
 		$page = str_replace('/index.php', '', basename($_SERVER['PHP_SELF']));
 		$page = $_SERVER['PHP_SELF'];
+		$suffix = ' | Patrick Bartman';
+		
 		if(strstr($page, 'home')) {
-			return 'Home';
+			return 'Patrick Bartman: Multifaceted Developer';
 		}
 		if(strstr($page, 'about')) {
-			return 'About Me';
+			return 'About Me' . $suffix;
 		}
 		if(strstr($page, 'resume')) {
-			return 'R&eacute;sum&eacute;';
+			return 'R&eacute;sum&eacute;' . $suffix;
 		}
 		if(strstr($page, 'portfolio')) {
 			if (strstr($page, 'motorola')) {
-				return 'Motorola Solutions';
+				return 'Motorola Solutions' . $suffix;
 			}
 			elseif (strstr($page, 'anyspace')) {
-				return 'AnySpace';
+				return 'AnySpace' . $suffix;
 			}
 			elseif (strstr($page, 'floodlight')) {
-				return 'Floodlight Design';
+				return 'Floodlight Design' . $suffix;
 			}
 			elseif (strstr($page, 'iit')) {
-				return 'Illinois Institute of Technology';
+				return 'Illinois Institute of Technology' . $suffix;
 			}
 			elseif (strstr($page, 'hdj')) {
-				return 'Harry D. Jacobs High School';
+				return 'Harry D. Jacobs High School' . $suffix;
 			}
 			elseif (strstr($page, 'portfolio/personal')) {
-				return 'Personal';
+				return 'Personal' . $suffix;
 			}
 			else {
-				return 'Portfolio';
+				return 'Portfolio' . $suffix;
 			}
+		}
+		if(strstr($page, '2032')) {
+			return 'Patrick For President: 2032' . $suffix;
 		}
 		return '';
 	}
@@ -48,11 +53,12 @@
 	<head>
 		<meta id="viewport" name="viewport" content="width=device-width">
 		<meta charset="utf-8">
-		<meta name="description" content="The Personal Portfolio Site of Patrick Bartman, Multi-faceted Developer.">
-		<meta name="keywords" content="Patrick Bartman, Pat Bartman, Bartman, Developer, Computer Science, Computer Engineer, Computer Engineering, Programming, Java, PHP, Javascript, Web Development, CSS, jQuery, IIT, Illinois Tech, Illinois Institute of Technology, Chicago, Algonquin, Illinois, Bronzeville, Bridgeport, Full Stack, Full-Stack, Back End, Back-End, Front End, Front-End" />
+		<meta name="description" content="The Personal Portfolio Site of Patrick Bartman, Multifaceted Developer.">
+		<meta name="keywords" content="Patrick Bartman, Pat Bartman, Bartman, Developer, Multifacet, Multifaceted, Multi-facet, Multi-faceted, Computer Science, Computer Engineer, Computer Engineering, Programming, Java, PHP, Javascript, Web Development, CSS, jQuery, IIT, Illinois Tech, Illinois Institute of Technology, Chicago, Algonquin, Illinois, Bronzeville, Bridgeport, Full Stack, Full-Stack, Back End, Back-End, Front End, Front-End, Made With Knowledge, Hackathons" />
 		<meta name="author" content="Patrick Bartman">
+		<meta name="theme-color" content="#000000">
 		
-		<title><?php echo getPage(); ?> | Patrick Bartman</title>
+		<title><?php echo getPage(); ?></title>
 		<link rel="shortcut icon" href="http://patrickbartman.com/images/logo.png">
 		
 		<!-- Facebook Meta's -->
@@ -62,7 +68,7 @@
 		<meta property="og:title"				content="Patrick Bartman" />
 		<meta property="og:description"			content="The Personal Portfolio Site of Patrick Bartman, Multi-faceted Developer." />
 		<meta property="og:image"				content="http://mypages.iit.edu/~pbartman/personal/images/profile-square.png" />
-		<meta porperty="og:site_name"			content="Patrick Bartman" />
+		<meta property="og:site_name"			content="Patrick Bartman" />
 		
 		<!-- Twitter Meta's -->
 		<meta name="twitter:card" 				content="summary_large_image">
@@ -125,6 +131,33 @@
 		  ga('create', 'UA-84552628-1', 'auto');
 		  ga('send', 'pageview');
 		
+		</script>
+		
+		<script type="application/ld+json">
+			{
+			  "@context": "http://schema.org",
+			  "@type": "Person",
+			  "url": "http://www.patrickbartman.com",
+			  "email": "me@patrickbartman.com",
+			  "familyName": "Bartman",
+			  "givenName": "Patrick",
+			  "jobTitle": "Multifaceted Developer",
+			  "image": "http://mypages.iit.edu/~pbartman/personal/images/profile-square.png",
+			  "name": "Patrick Bartman",
+			  "description": "Multifaceted Developer",
+			  "alumniOf": [{
+			  	"@type": "EducationalOrganization",
+			  	"name": "Illinois Institute of Technology"
+			  }],
+			  "contactPoint": [{
+			    "@type": "ContactPoint",
+			    "telephone": "+1-224-678-6145",
+			    "email": "me@patrickbartman.com",
+			    "name": "Patrick Bartman",
+			    "url": "http://www.patrickbartman.com",
+			    "image": "http://mypages.iit.edu/~pbartman/personal/images/profile-square.png"
+			  }]
+			}
 		</script>
 		
 	</head>
