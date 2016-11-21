@@ -90,7 +90,8 @@ jQuery(function() {
 	//consider adaptive home slider before changing break points
 	if(!jQuery('body').hasClass('no-adaptive'))
 		fluid.init({
-			110: 'adaptive',
+			1900: 'super-adapt',
+			1400: 'adaptive',
 			1000: 'tablet',
 			680: 'mobile'
 		});

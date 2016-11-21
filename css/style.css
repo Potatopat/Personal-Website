@@ -105,7 +105,7 @@ a.external {
 #social a > i, #social a img {
 	font-size: 80px;
 	color: black;
-	padding: 10px;
+	padding: 12px;
 }
 #social a img {
 	border-radius: .25em;
@@ -132,7 +132,8 @@ a.external {
 	margin-right: 100px;
 	margin-right: 5.254%;                                                                      
 	margin-bottom: 100px;     
-	width: calc(100% - (460px + 7.356%) - 5.254%);                                                                
+	width: calc(100% - (460px + 7.356%) - 5.254%);     
+	min-height: 480px;                                                           
 }                                                                                             
 #content h1 {                                                                                 
 	font-size: 90px;    
@@ -142,9 +143,12 @@ a.external {
 	font-size: 50px;    
 	text-transform: capitalize; 
 }
-#content      h3 {
+#content h3 {
 	font-size: 36px;
 	padding-bottom: 9px;
+}  
+#content ul {
+	margin-left: 25px;
 }                                                          
 #content p, #content li {                                                                                  
 	font-size: 24px;                                                                          
@@ -152,9 +156,8 @@ a.external {
 	margin-top: 20px;                                                                         
 }                                                                                             
 #content li {
-	margin-left: 25px;
 	margin-top: 10px;
-}   
+} 
                                                                                
 #footer {
 	background-color: black;       
@@ -180,7 +183,19 @@ p {
 }                                   
                                      
                                      
-                                     
+         
+         
+/* ADAPTIVE */
+/* TODO: change all margin-rights on computer monitors based on new dynamic screens to allow for better centering */
+
+.super-adapt #portfolio {
+	margin-left: calc(50% - 300.75px);
+}
+
+.adaptive #portfolio > div {
+	float: none;
+    margin: 0 auto;
+}                            
                                      
                                      
                                      

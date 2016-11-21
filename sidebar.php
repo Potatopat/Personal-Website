@@ -10,4 +10,17 @@
 		<a href="https://github.com/Potatopat" title="Check Out My GitHub!" target="_blank"><i class="fa fa-github-square"></i></a>
 		<!-- <a href="https://devpost.com/Potatopat" title="Check Out My Devpost!" target="_blank"><div><img src="../images/devpost-stack.png"/></div></a> -->
 	</div>
+	<?php 
+		$dow = 5;
+		$start_time = 17;
+		$end_time = 19;
+		
+		date_default_timezone_set('America/Chicago');
+		$d = intval(date('N'));
+		$h = intval(date('G'));
+		
+		if ($d == $dow && $h >= $start_time && $h < $end_time) {
+			echo '<iframe src="http://tunein.com/embed/player/s29558/" style="width:100%;width:calc(100% - 100px);height:100px;margin:20px 50px 0px 50px;" scrolling="no" frameborder="no"></iframe>';
+		}
+	?>
 </div>

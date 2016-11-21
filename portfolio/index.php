@@ -1,5 +1,5 @@
 <?php include "../header.php"; ?>
-<div id="content">
+<div id="content" class="portfolio">
 	<h1>Portfolio</h1>
 	<p>Breif portfolio of some of the projects I've done, grouped by what organization they are a part of. Click on a computer monitor to see some of my work. You can also hover over a question mark to learn more about what I did within that organization.</p>
 	<div id="portfolio">
