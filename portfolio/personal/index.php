@@ -41,6 +41,27 @@
 							</div>
 					</div>
 					<div class="clear"></div>
+					<div id="bitsort">
+						<a href="https://github.com/Potatopat/BitSort" target="_blank">
+							<div class="computer">
+								<div class="frame">
+									<img src="../../images/logo.png"/>
+								</div>
+								<div class="neck"></div>
+								<div class="foot"></div>
+							</div>
+							<div class="name">
+								<h3>Bitsort</h3>
+						</a>
+								<p>Personal build of "Radix Sort," without prior knowledge of that sort's code or methodology</p>
+								<ul>
+							    	<li>Java</li>
+							    	<li>Sorting Algorithm</li>
+							    	<li>Discrete Mathematics</li>
+							    </ul>
+							</div>
+					</div>
+					<div class="clear"></div>
 					<div id="cbdc">
 						<a href="http://cbdc.blockchainedu.org/" target="_blank">
 							<div class="computer">

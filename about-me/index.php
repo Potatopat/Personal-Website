@@ -1,10 +1,9 @@
 <?php include "../header.php" ?>
 <div id="content">
 	<h1>About Me</h1>
-	<h2><img src="../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/> UNDER CONSTRUCTION! <img src="../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/></h2>
-	<iframe src="http://tunein.com/embed/player/s29558/" style="width:335px;height:100px;" scrolling="no" frameborder="no"></iframe>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<!--<h2><img src="../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/> UNDER CONSTRUCTION! <img src="../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/></h2>-->
+	<p>I'm a Chicago based, multifaceted computer engineering student, focusing on software. I've been programming since I was 16, becoming among the first students at my high school to take a programming class, and have been adept at it ever since.</p>
+	<p>Outside of programming, I enjoy running (I just completed the Chicago Marathon in October 2017), rock climbing, DJing for my campus radio station, and many more. I find interests in most everything.</p>
 	<div id="influencers">
 		<h2>Influencers</h2>
 		<ul>

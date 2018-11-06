@@ -41,6 +41,26 @@
 							</div>
 					</div>
 					<div class="clear"></div>
+					<div id="ece441">
+						<a href="https://github.com/Potatopat/ECE-441-Design-Project" target="_blank">
+							<div class="computer">
+								<div class="frame">
+									<img src="../../images/logo.png"/>
+								</div>
+								<div class="neck"></div>
+								<div class="foot"></div>
+							</div>
+							<div class="name">
+								<h3>Microcomputers Final Project</h3>
+						</a>
+								<p>Created for ECE 441: Microcomputers. A fully functional code editor written in MC68000 Assembly.</p>
+								<ul>
+							    	<li>Assembly</li>
+							    	<li>Compiler Design</li>
+							    </ul>
+							</div>
+					</div>
+					<div class="clear"></div>
 					<div id="cs425">
 						<a href="https://github.com/Potatopat/CS425" target="_blank">
 							<div class="computer">

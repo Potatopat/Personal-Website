@@ -15,7 +15,7 @@
 </style>
 	<div id="content">
 		<h1>Floodlight Design</h1>
-		<p>A Brief List of Sites I Have Worked on During my Time With <a href="http://floodlight.design/" class="external" target="_blank">Floodlight Design</a>. A lot of my job was spent doing research on different tool-sets and making minor code changes or a quick-and-simple algorithm, and other sites I made were pages that are not public facing and that I cannot link. So here is a list listed in subjective order in regards to how much work I peronally put into each one.</p>
+		<p>A Brief List of Sites I Have Worked on During my Time With <a href="http://floodlight.design/" class="external" target="_blank">Floodlight Design</a>. A lot of my job was spent doing research on different tool-sets and making minor code changes or a quick-and-simple algorithm, and other sites I made were pages that are not public facing and that I cannot link. So here is a list listed in subjective order in regards to how much work I personally put into each one.</p>
 		<div id="portfolio">
 			<div id="tiu">
 				<a href="http://www.tiu.edu/" target="_blank">
@@ -117,7 +117,7 @@
 					<div class="name">
 						<h3>CCSD 59</h3>
 				</a>
-						<p>Hand in morst aspects of this site. Primary work in styling for each individual school's page.</p>
+						<p>Hand in most aspects of this site. Primary work in styling for each individual school's page.</p>
 						<ul>
 					    	<li>PHP</li>
 					    	<li>SASS</li>
@@ -182,7 +182,7 @@
 				</a>
 						<p>Full site upgrade. Primary work in the <a href="https://buy.safedepositboxinsurance.com/getcoverage2" class="external">Get Coverage</a> portion of the site.</p>
 						<ul>
-							<li>Massive ammounf of PHP</li>
+							<li>Massive amount of PHP</li>
 							<li>Javascript</li>
 							<li>CSS</li>
 							<li>Cleaning up poorly written code</li>

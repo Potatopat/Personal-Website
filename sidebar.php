@@ -11,15 +11,19 @@
 		<!-- <a href="https://devpost.com/Potatopat" title="Check Out My Devpost!" target="_blank"><div><img src="../images/devpost-stack.png"/></div></a> -->
 	</div>
 	<?php 
-		$dow = 5;
-		$start_time = 17;
-		$end_time = 19;
+		$dow = 3;				// Wednesdays 6-8pm		// PG-13 Fall 2017
+		$start_time = 18;
+		$end_time = 20;
+		
+		$dow_2 = 3;				// Wednesdays 1-3pm		// How To Succeed At DJing Without Really Trying Fall 2017
+		$start_time_2 = 13;		// TODO: change to 1:30-2:30pm
+		$end_time_2 = 15;
 		
 		date_default_timezone_set('America/Chicago');
 		$d = intval(date('N'));
 		$h = intval(date('G'));
 		
-		if ($d == $dow && $h >= $start_time && $h < $end_time) {
+		if (($d == $dow && $h >= $start_time && $h < $end_time) || ($d == $dow_2 && $h >= $start_time_2 && $h < $end_time_2)) {
 			echo '<iframe src="http://tunein.com/embed/player/s29558/" style="width:100%;width:calc(100% - 100px);height:100px;margin:20px 50px 0px 50px;" scrolling="no" frameborder="no"></iframe>';
 		}
 	?>

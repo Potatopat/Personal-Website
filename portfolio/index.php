@@ -1,7 +1,7 @@
 <?php include "../header.php"; ?>
 <div id="content" class="portfolio">
 	<h1>Portfolio</h1>
-	<p>Breif portfolio of some of the projects I've done, grouped by what organization they are a part of. Click on a computer monitor to see some of my work. You can also hover over a question mark to learn more about what I did within that organization.</p>
+	<p>Brief portfolio of some of the projects I've done, grouped by what organization they are a part of. Click on a computer monitor to see some of my work. You can also hover over a question mark to learn more about what I did within that organization.</p>
 	<div id="portfolio">
 		<div id="motorola">
 			<a href="motorola">
@@ -13,6 +13,8 @@
 							<b>Software Engineering Intern</b>
 							<br>
 							<i>May 2016 - August 2016</i>
+							<br>
+							<i>May 2017 - August 2017</i>
 						</p>
 					</div>
 					<img src="https://www.motorolasolutions.com/etc/designs/msi/assets/images/components/header-components/header_logo/assets/motoSolutions.png"/>
@@ -33,7 +35,7 @@
 						<p>
 							<b>Co-Founder &amp; Lead Developer</b>
 							<br>
-							<i>April 2016 - Present</i>
+							<i>April 2016 - January 2017</i>
 						</p>
 					</div>
 					<img src="../images/anyspacelogo.png"/>
@@ -73,9 +75,9 @@
 					<div class="overlay">
 						<span>?</span>
 						<p>
-							<b>Computer Engineering Major</b>
+							<b>B.S. Computer Engineering</b>
 							<br>
-							<i>August 2014 - May 2018</i>
+							<i>August 2014 - Present</i>
 						</p>
 					</div>
 					<img src="http://mypages.iit.edu/~siam/wp-content/uploads/IIT_Logo_stack_186_blk.png"/><!-- get a smaller one -->

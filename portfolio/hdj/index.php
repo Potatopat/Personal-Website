@@ -14,46 +14,105 @@
 	}
 </style>
 			<div id="content">
-				<h1>Personal Projects Portfolio</h1>
-				<p>Here are some personal projects and hackathons that I've worked on.</p>
-				<h2><img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/> UNDER CONSTRUCTION! <img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/></h2>
+				<h1>Harry D. Jacobs High School Portfolio</h1>
+				<p>A collection of my earliest programs.</p>
+				<!--<h2><img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/> UNDER CONSTRUCTION! <img src="../../plugins/glyphicons_free/glyphicons/png/glyphicons-431-construction-cone.png" style="vertical-align: middle;"/></h2>-->
 				<div id="portfolio">
-					<div id="pb">
-						<a href="http://patrickbartman.com/" target="_blank">
+					<div id="physics">
+						<a href="https://github.com/Potatopat/Physics-Kinematics-Engine" target="_blank">
 							<div class="computer">
 								<div class="frame">
-									<img src="../../images/screenshots/pb.png"/>
+									<img src="../../images/logo.png"/>
 								</div>
 								<div class="neck"></div>
 								<div class="foot"></div>
 							</div>
 							<div class="name">
-								<h3>Patrick Bartman</h3>
+								<h3>Physics Kinematics Engine</h3>
 						</a>
-								<p>My Personal Website</p>
+								<p>Perfect Physics Kinematics Simulation made during high school.</p>
 								<ul>
-							    	<li>PHP</li>
-							    	<li>Responsive</li>
+							    	<li>Java</li>
+							    	<li>Physics</li>
 							    </ul>
 							</div>
 					</div>
 					<div class="clear"></div>
-					<div id="cbdc">
-						<a href="http://cbdc.blockchainedu.org/" target="_blank">
+					<div id="interact">
+						<a href="https://github.com/Potatopat/Interact" target="_blank">
 							<div class="computer">
 								<div class="frame">
-									<img src="../../images/screenshots/cbdc.png"/>
+									<img src="../../images/logo.png"/>
 								</div>
 								<div class="neck"></div>
 								<div class="foot"></div>
 							</div>
 							<div class="name">
-								<h3>Chicago Blockchain Developers Conference</h3>
+								<h3>HDJ Interact Sign-in Program</h3>
 						</a>
-								<p>Came up with the Initial design and implementation, which was used in later wordpress implementation.</p>
+								<p>Program created for use of my High School's largest club, Interact. They regularly had 250+ members who all has mandatory attendance. Prior to this program, they were recording attendance by pen and paper and taking at least an hour across 6 students to do so, not including the manual entry into Excel that took place afterwards. They came to me about writing this program, and the first day I came with it, it rain flawless and I singlehandedly had everyone signed in in 15 minutes. The program is still used by the organization to this date.</p>
 								<ul>
-							    	<li>Wordpress</li>
-							    	<li>Responsive</li>
+							    	<li>Java</li>
+							    	<li>Java Applet</li>
+							    	<li>Jave to Excel Toolset</li>
+							    </ul>
+							</div>
+					</div>
+					<div class="clear"></div>
+					<div id="voting">
+						<a href="https://github.com/Potatopat/Voting" target="_blank">
+							<div class="computer">
+								<div class="frame">
+									<img src="../../images/logo.png"/>
+								</div>
+								<div class="neck"></div>
+								<div class="foot"></div>
+							</div>
+							<div class="name">
+								<h3>HDJ Voting Program</h3>
+						</a>
+								<p>Voting Skeleton created for my high school. Used for various polls and surveys such as a mock 2013 presidential election and homecoming voting. Framework was continued to be used afer I graduated.</p>
+								<ul>
+							    	<li>Java</li>
+							    	<li>Java Applet</li>
+							    </ul>
+							</div>
+					</div>
+					<div class="clear"></div>
+					<div id="web">
+						<a href="https://github.com/Potatopat/My-First-Web-Crawler" target="_blank">
+							<div class="computer">
+								<div class="frame">
+									<img src="../../images/logo.png"/>
+								</div>
+								<div class="neck"></div>
+								<div class="foot"></div>
+							</div>
+							<div class="name">
+								<h3>My First Web Crawler</h3>
+						</a>
+								<p>Early Web Crawler made during high school, before I knew what a web crawler was.</p>
+								<ul>
+							    	<li>Java</li>
+							    </ul>
+							</div>
+					</div>
+					<div class="clear"></div>
+					<div id="presentation">
+						<a href="https://github.com/Potatopat/Personal-Presentation-Program" target="_blank">
+							<div class="computer">
+								<div class="frame">
+									<img src="../../images/logo.png"/>
+								</div>
+								<div class="neck"></div>
+								<div class="foot"></div>
+							</div>
+							<div class="name">
+								<h3>Personal Presentation Program</h3>
+						</a>
+								<p>Created my own presentation software similar to PowerPoint based off my physics engine.</p>
+								<ul>
+							    	<li>Java</li>
 							    </ul>
 							</div>
 					</div>
